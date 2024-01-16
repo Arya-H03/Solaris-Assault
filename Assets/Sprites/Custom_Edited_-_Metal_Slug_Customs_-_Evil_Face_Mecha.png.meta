@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: ecc4b43c42cbd0941a8aa5fc68613345
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1691
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581dfbdc5523e4d43992dce0cd468306
+      internalID: -1798572041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1691
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42e63d77468031428030e1ee758058f
+      internalID: 937339673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1691
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5947858c350c356468a1bb939fa62a27
+      internalID: 255988437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1614
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc44fa94b5844b4ab57b70b18bca85d
+      internalID: -7149423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1691
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16206724dc15d44bb8f852f5a623ca
+      internalID: 963884904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1691
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17eaa484e59ad48b447ec08f476508
+      internalID: 1345097781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1691
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23dd681fa5206948a47410d6b235add
+      internalID: 1552423199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1691
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4a268554d02a4481cffd3ac06c2e7
+      internalID: 1154494485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1614
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f7d657f1ec654baff50679a83d8e0
+      internalID: 1785699110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1614
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b87c53617141cd4fbf66b2f45bded5d
+      internalID: -1832619070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1614
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247351365078a1440af08cbf9367d401
+      internalID: -921286418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1614
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b9e87872294e478cba1d2a5bfea45
+      internalID: -1646509147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1614
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493833909c65a14d81b35fd74d4ab27
+      internalID: -1993528773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1614
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fb030455bdf34fb50f9b24e8254e6
+      internalID: -401002182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1551
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b10b7ad26a39404abfa66afcdd8b59d
+      internalID: -1157226039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1551
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba27672865f6b140b0ebea297923d11
+      internalID: 721390853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1551
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c63231734518a4b8840a1a76ba32e8
+      internalID: 1773988852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1551
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f435e49e47f57046a74eb9de03b1367
+      internalID: -2028542514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1551
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9c77faf6082345aca59f4dc2dcbfd
+      internalID: 857806868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1551
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5abf9df77c32346add4dc5815b1de3
+      internalID: 1702618342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1551
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c93a3d6b409f43890bcd179dba782
+      internalID: 599855451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1471
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c8df6c29c22a4296cf28768f69657
+      internalID: -2140836966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1471
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa05228d24b47e64b9817c99fef193b4
+      internalID: 851911377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1471
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6d0f8acacfacc4295d09ccd3d3676b
+      internalID: -198733733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1471
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee990d92d90b3c4f9550605ae9e5b5b
+      internalID: 1377037495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1471
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9dcab57f3ae224880f8e147ed8a54c
+      internalID: 1064425542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1388
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2140bcd3a7d43448a55accd834e3bd
+      internalID: -1832049009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1388
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0c8a8b57b24640beaf15b4e02e127
+      internalID: -2016637390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1388
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe503ec0452da4aa4c0a3f60835cf6
+      internalID: -788256266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1388
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b6f631507a64a459880aac6d716bc5
+      internalID: 1725190348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1388
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd9044828db23408e3a5844b692864
+      internalID: -2031016464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1388
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875b822ecd5b51469beaaf4411e6068
+      internalID: -1773454935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1388
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d60fe6fdb9d81c4da1184c8cb6a0edb
+      internalID: -1917040172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1388
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3864b663c1c2746a1b01423a2db402
+      internalID: 522083199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1312
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d265dc036a393084aa6c6950eb1358cc
+      internalID: -1800808501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1312
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b7c628ea04814c887f360f74fcd81
+      internalID: -607656511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1312
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c747ceb7e6a19a745835d1a9da8b98c5
+      internalID: -1445237218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1312
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a11b9aec7eb94693656a8e244278c
+      internalID: -1301969990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1312
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d67783c50109304096259b9296c9536
+      internalID: -1832360921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1312
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251689dd6983c244a5b5809431e19ea
+      internalID: -742992916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1312
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62eb3f8d269da44adb3ac85072893a
+      internalID: -175112779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_41
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1312
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cb625e2b8ce84f8c433acad07bc9f
+      internalID: 287259546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1219
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d6f055802164842960750040003263
+      internalID: -726446566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1219
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8708ba5cb113f474581ab7ce79b26792
+      internalID: 1674253613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1219
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fe369c284bfa74c9d51fdb110b7d1e
+      internalID: -570912730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1219
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53438ce920e185438eb94e826d62ebf
+      internalID: 1780865218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1219
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b3f5ef08c6234eb72a054c7a0d68a
+      internalID: -947758470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1219
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc490a3a0bf254ba72a642acbe094e
+      internalID: 707961419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_48
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1219
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7bf5cf1b4a944488192e6cf09dd3a
+      internalID: -1372783222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1147
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800fa8e5cfbb28345967097825357fdf
+      internalID: 1916177167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1147
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370f131e326422489cc736c28a7b678
+      internalID: 655722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_51
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1147
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33dddf3b2ceed49a32f2ed809b885d
+      internalID: 1734304552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1147
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9980defd22a3c4418f772ab49d03782
+      internalID: 1853398511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1147
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b1a22947ac5e48826be55699f1371
+      internalID: -1254165881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1074
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879018c843167444ab4b868c3683a995
+      internalID: -542655059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1074
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90f2b4904787d4f924c96603359696
+      internalID: 743398202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_56
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1074
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc62ecba8f17a45ac6f860aa1b4048
+      internalID: -27089615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1074
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a1f12da0a7854db68c546fae1ccdd
+      internalID: 2138030705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_58
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1074
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c40f36029eca24d947f358d4ab0baa
+      internalID: 243384354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_59
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1074
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321dbeec4019694d85dad5dec0fb005
+      internalID: -1439111217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 951
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5a90678c29784597790b6dba70387
+      internalID: -1056297624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 951
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb30afe6721444d8a32531be32e2ab
+      internalID: -1920436873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 951
+        width: 90
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3356303, y: 0.50740445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f470c99d6441540b40b20f21bb1efb
+      internalID: 674910890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 951
+        width: 106
+        height: 54
+      alignment: 9
+      pivot: {x: 0.30009085, y: 0.51480895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c04a7538cc35e4d9b23c1d89b88f35
+      internalID: 16683562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 951
+        width: 95
+        height: 54
+      alignment: 9
+      pivot: {x: 0.34428132, y: 0.4851933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad8198888c5494584eebecd1662c8f
+      internalID: 916809964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 951
+        width: 93
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3892737, y: 0.5127145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e16e17c8bb6764783f1b915f157d20
+      internalID: -1600068471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 836
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dbf5c697ad97840b0daa5fe690d768
+      internalID: 1110150203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 836
+        width: 91
+        height: 59
+      alignment: 9
+      pivot: {x: 0.3792966, y: 0.43018717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18bda43dac76a446ae3ca325edc8249
+      internalID: -2107752551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 836
+        width: 106
+        height: 61
+      alignment: 9
+      pivot: {x: 0.3316129, y: 0.4324761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e8ae5fb011df4cabc9759b440f90f
+      internalID: -1756408132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 836
+        width: 94
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3758454, y: 0.48774174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c327c7fffc2c498059fd31ed40b4d
+      internalID: 881475162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 836
+        width: 94
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3758454, y: 0.5127134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee2c06c9581bc4eb301b929010cb03
+      internalID: -86247250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_71
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 836
+        width: 73
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4366314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d2b91c89d2d54296378d43ec1e451
+      internalID: -1652918322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 720
+        width: 84
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4399064, y: 0.34615886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f15001fa838f4ca0efa236be982bc
+      internalID: 828999670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 720
+        width: 95
+        height: 82
+      alignment: 9
+      pivot: {x: 0.40132013, y: 0.34170383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e780c0cb836ad040aea18d0ad7f8535
+      internalID: -2015425129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 720
+        width: 83
+        height: 74
+      alignment: 9
+      pivot: {x: 0.43918213, y: 0.40254995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896afdf656b97734ba5512061adbdf60
+      internalID: -852754101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_75
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 720
+        width: 82
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4296462, y: 0.4098587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a5d19d7e295448b7e52d69e0ffef6
+      internalID: 80921232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_76
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 720
+        width: 73
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4445275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff571ce7777b18948a9a65f6f1cf7ab6
+      internalID: -1135066637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6243318, y: 0.4278861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ded9d09ff700243b46d95485b65abe
+      internalID: -831069201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 604
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5994655, y: 0.33880687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5a0a8ac423c7478b92b9e53bb4bbd
+      internalID: -1622388134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 604
+        width: 61
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5945735, y: 0.3160394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7828b9a9b9ca4a45872767afdf29527
+      internalID: -1012352709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_80
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 604
+        width: 58
+        height: 90
+      alignment: 9
+      pivot: {x: 0.6616311, y: 0.33173692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f428abf98bb973442a617b503c5e1db2
+      internalID: -733062278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_81
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 604
+        width: 58
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6367645, y: 0.3177376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059dcb60126e6d4581dfdf80d0d1eb4
+      internalID: 1694182259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 604
+        width: 58
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6118985, y: 0.45879254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf984cec68cc39e4cb3ad10ec897f7ed
+      internalID: -1015348087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_83
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 604
+        width: 73
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4445275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac206808854c6c54ba1e477141761764
+      internalID: 1805052721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 490
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc51f975b455014d93135f8229281f2
+      internalID: 261483652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_85
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 411
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66490b6707d8ff748a381bf626ecb147
+      internalID: 139590644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9afc442d5719fe47b3fe95eca5d4d57
+      internalID: -2075299858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1eb4a94236bdf45aec3d67b82b1fed
+      internalID: 507007771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_88
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86150786707b214db18d3a7dcb7b783
+      internalID: 850487188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_89
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cec9ab791051ff4893fa7f1dc294988
+      internalID: 1670937047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_90
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e221623b2139545ae6618c8c19648c
+      internalID: -976755606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_91
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08eed4e31fc3647be0a6308a1413a4
+      internalID: 1249261386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_92
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbda6a6f44278418b627005fae474d
+      internalID: -1835742634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_93
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 411
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b16a60ab348f274887fc49e1ad54578
+      internalID: 1160112367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_94
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 411
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7da8d374e3eed449cabf88193b4f05
+      internalID: -249965577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_95
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 342
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f841083280594074bb0d52e3e88f97d7
+      internalID: -1958424214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_96
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277aeb4879ac4dc48a28f61d5715b9af
+      internalID: -161578328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_97
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 342
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd900428ecaf984f87040b97e161e78
+      internalID: 698771284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_98
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 342
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dac1cf473f191479ee3de7effbd50d
+      internalID: -800506394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_99
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 342
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c204dad676684d889d1f5ba6aa3b5
+      internalID: 2093152852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_100
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 342
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b127316fc8a14087d058db284208c
+      internalID: -2119282881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db613c84c8a94499823884ac55ad76
+      internalID: -1112092085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 258
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befeeb3e97f43b7499d2011c88584b9e
+      internalID: -1921527341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 258
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a4f293dcb8064295aa7b42dd60a74
+      internalID: 2085383472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_104
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 258
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fc3ab35a042ba4e9d57bedf30388ab
+      internalID: -474834983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 258
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c69fb1d2a23b4e960cc1b1847fb18
+      internalID: 1456711791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b1d35a93000cb44b7a3d94fe3a9cc6
+      internalID: -575649543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 181
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699ad8578cd9f944858c8e90053b1d6
+      internalID: 1584585181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 181
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7a6abb8d23d745af471222d47cb41
+      internalID: 1144775862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_109
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 181
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcbc74b4e51bb4183842657cff83ea
+      internalID: -1121169745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_110
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c883ae9d9330b49a9e525e659977a1
+      internalID: -777708679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_111
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 180
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcc351d46060544b5269b7395405b6
+      internalID: -2076956962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_112
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 180
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32714e9742aa9654d8a5651e7ae53b90
+      internalID: -1130150107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_113
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 180
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c256f04d86b14d9d2f449db1b6bdc
+      internalID: 713075848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_114
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 181
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af6ce9aaa8f3d4a8f3e3aa9628700d
+      internalID: -897770458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449f8006134343488ad7c32a26e5941
+      internalID: -94419588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 90
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24bd71f8a2d4744a8af6d57ad2a68df
+      internalID: -1803122266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 90
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c170c701a1a4c4d8f5500fb09a5866
+      internalID: 1254851000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e7ed3317a272744924303b18083294
+      internalID: 830950264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_119
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 90
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c539384cf1ada40bcccd12f7555cfd
+      internalID: -1712412511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_120
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 87
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb1f8ca7c9cbc749bd164f04726feac
+      internalID: -532365875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_121
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 87
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eaa2dbeac9dd5428f865a88e7bd552
+      internalID: -2035735323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_122
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 87
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6435fd8dd0c944298d239d5a160b9d
+      internalID: 364463323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_123
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 87
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204d418f1c711f748a1a61e57532bd5a
+      internalID: -1410102244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_124
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 87
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd1de02f0d02646804304c98b48cc5
+      internalID: -1960178578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ca896901bd4ff489f7818e44a2b215
+      internalID: 5781845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eeeb2e01511f34a934b83596765730
+      internalID: 1141752361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1ba9069a01a54fbe784068f02bc72
+      internalID: -2064577077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_54: -542655059
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_69: 881475162
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_101: -1112092085
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_16: 1773988852
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_79: -1012352709
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_89: 1670937047
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_75: 80921232
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_125: 5781845
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_57: 2138030705
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_45: 1780865218
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_88: 850487188
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_42: -726446566
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_39: -742992916
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_51: 1734304552
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_50: 655722260
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_127: -2064577077
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_43: 1674253613
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_85: 139590644
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_103: 2085383472
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_25: 1064425542
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_72: 828999670
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_81: 1694182259
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_26: -1832049009
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_60: -1056297624
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_87: 507007771
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_23: -198733733
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_5: 1345097781
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_90: -976755606
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_20: 599855451
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_71: -1652918322
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_44: -570912730
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_40: -175112779
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_83: 1805052721
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_95: -1958424214
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_58: 243384354
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_18: 857806868
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_2: 255988437
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_91: 1249261386
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_41: 287259546
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_56: -27089615
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_115: -94419588
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_78: -1622388134
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_80: -733062278
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_7: 1154494485
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_102: -1921527341
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_68: -1756408132
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_46: -947758470
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_62: 674910890
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_100: -2119282881
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_61: -1920436873
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_73: -2015425129
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_82: -1015348087
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_34: -1800808501
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_77: -831069201
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_32: -1917040172
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_74: -852754101
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_8: 1785699110
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_112: -1130150107
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_99: 2093152852
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_128: 1880797263
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_13: -401002182
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_28: -788256266
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_1: 937339673
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_38: -1832360921
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_76: -1135066637
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_70: -86247250
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_118: 830950264
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_94: -249965577
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_63: 16683562
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_92: -1835742634
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_6: 1552423199
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_65: -1600068471
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_3: -7149423
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_29: 1725190348
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_55: 743398202
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_120: -532365875
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_98: -800506394
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_97: 698771284
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_110: -777708679
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_14: -1157226039
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_66: 1110150203
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_36: -1445237218
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_119: -1712412511
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_86: -2075299858
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_59: -1439111217
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_31: -1773454935
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_96: -161578328
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_109: -1121169745
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_111: -2076956962
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_121: -2035735323
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_30: -2031016464
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_107: 1584585181
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_52: 1853398511
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_64: 916809964
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_37: -1301969990
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_108: 1144775862
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_117: 1254851000
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_27: -2016637390
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_22: 851911377
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_19: 1702618342
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_124: -1960178578
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_126: 1141752361
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_67: -2107752551
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_15: 721390853
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_84: 261483652
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_114: -897770458
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_21: -2140836966
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_104: -474834983
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_35: -607656511
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_24: 1377037495
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_123: -1410102244
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_12: -1993528773
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_48: -1372783222
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_0: -1798572041
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_10: -921286418
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_47: 707961419
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_49: 1916177167
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_113: 713075848
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_105: 1456711791
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_93: 1160112367
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_53: -1254165881
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_106: -575649543
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_33: 522083199
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_4: 963884904
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_116: -1803122266
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_9: -1832619070
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_11: -1646509147
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_17: -2028542514
+      Custom_Edited_-_Metal_Slug_Customs_-_Evil_Face_Mecha_122: 364463323
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

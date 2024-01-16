@@ -1,0 +1,2147 @@
+fileFormatVersion: 2
+guid: d65f6e2ad71e25a49b40827232a728ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1115
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b8d1d715c1a844eaa94d369608a279
+      internalID: 368383374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1115
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe1322b6ac3144d8049c40bcb42751
+      internalID: 872489211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1115
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c0f09d1f389d41bdb5dbc4eaa78f5
+      internalID: 816137508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1115
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e154ced3a8264492a18b17824215b
+      internalID: 1809114088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1048
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551a3cea94a0f041a03878067f38df9
+      internalID: -1256616213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1048
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5264a804c02c92418504b8e787aae62
+      internalID: 1311000404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1048
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892c4f3e139ef74399e6e03ed921987
+      internalID: -540127342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1048
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f30610f2eb5249a66801d41a59189
+      internalID: -2082013657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1048
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846115198d860c4a904d5e01f2cdedc
+      internalID: -1016062981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1048
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2912a2cd075abdd449404eda741d6bb9
+      internalID: -97355703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1048
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5586c9b3334145b46ad150e54db78c0b
+      internalID: -324080904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1048
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334c682b660a2f64c9f943e60459e27c
+      internalID: -733602835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1048
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353b0054048e464e9121fb030cd3c96
+      internalID: -467352234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 981
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb89b89765468c43ae4624f86b8a19a
+      internalID: 46785932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 981
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9af6af2a182fa4a93621e737dcb241
+      internalID: 101355189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 981
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4d45f760198f46a637a3d77e422c7
+      internalID: 1972995181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 981
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627b96754d3b9d4daa74f10d613eb81
+      internalID: -974113993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 981
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102ce6045a38764ebf65f91ce8af3da
+      internalID: 579762644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 981
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ebe73a8f78d644bedd0ab71847ca4
+      internalID: 217432124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 981
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ed533056de9848a9da273914b2600
+      internalID: 1593853447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 914
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c9a0d33d82774a835793571b4f241
+      internalID: 904383733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 914
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c32cad0f242643bda7385db6bb3c7
+      internalID: -75826947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 914
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22077bcd8dcad584e889b962db83f064
+      internalID: -1060465063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 914
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c61402db3fa41488fd5cc4fd1014ac
+      internalID: -1493781101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 836
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8aa41aa6bfd24f89c455802924a38
+      internalID: -1744879827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 836
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee86c44040cc9f4980a74bae0627e5d
+      internalID: 1086747057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 836
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4c44535e3ac94b93495e2225da335
+      internalID: 455053514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 836
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4a5cbcfce2ec4196efee64e03ef12
+      internalID: -1831170250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 836
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df6745d91f6ff9488855b72460f4f6e
+      internalID: 762578329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 836
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b4fae51811074c940989c682dcb68
+      internalID: -348369664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 768
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce0b17bd8c3024faeccfd51d03f1da
+      internalID: 2086717971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 768
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566467f23b7eaff469facab44b75e530
+      internalID: 931838200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 768
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00768706c286bd4f9a03c04f712e71c
+      internalID: 1626209907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 768
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb86976e8f42514fbcafa3fc8330c11
+      internalID: 1193266198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 768
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4148f064215c00459c223f9602d3485
+      internalID: 678856906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 768
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a2f69828f6cf408e66316143c3a98
+      internalID: 1886046676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 768
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19544a86cc9d8142932d2d2818316ea
+      internalID: -1429551629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87f78f96e694d49b5f0a1c1ca019e5
+      internalID: 1659996648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8eace591a7ea469296fdb37c791ad
+      internalID: -2013881529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 634
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195462c7c5ad70e40b467e7336280801
+      internalID: -247927174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 634
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427c0e7561545cf4895a3713cb60cbd3
+      internalID: -871713050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 559
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f863d928d9b5040a954490506f2d9e
+      internalID: -1797711767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 559
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b028f9703e9d8a4a8824b1d7e67a403
+      internalID: -1811834307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 559
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba628b3b81f30764d8ce5e7b336bbb09
+      internalID: 727819837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 559
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c98cd083c2394a8e2e76725a7d2e5
+      internalID: 747471350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 559
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6261dcd9465348aff276aa7e294f2
+      internalID: 291886676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 559
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00cea96dc2143441976bc36c57b89e3
+      internalID: -1970018122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 486
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0da4005819a9a4dab0576eb73876f9
+      internalID: -1694028668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 486
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535ad81c778468b4ea004eba419dfc04
+      internalID: 1797208500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 486
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b61d1c1baf074da5fc024cb9d19e8
+      internalID: -2123116887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 486
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826329ce51b39ef439c58982ade02943
+      internalID: 818089400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700001758269e5d47a738f9313341f74
+      internalID: 1634674561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 400
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ead5a5477197b4996be43cc70c3d10
+      internalID: -5657380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 400
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7b013f0406dfc47ab94ebd3e1e2ac8
+      internalID: 1762336944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 399
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01e188b74207f4c8d8e651ffb47212
+      internalID: -1622666609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 399
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb0941a55098843b2af145621234ce
+      internalID: 2049334074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 399
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656034b43fae4974a875bf1701016b42
+      internalID: 1500253303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab9526492c6cb4aaf1b93d155c85fa
+      internalID: 549042578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 333
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd8c53890ea41e429f82dd06a37961e
+      internalID: 2055026683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 333
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1066bd79df9c08342aa1b25fb331724f
+      internalID: -351077423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 333
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6209c149d4e9ff249897ad8be96c5d21
+      internalID: 1746393960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 333
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ea7447d6f0ba4fbddb124f25bbbd9
+      internalID: -1821086477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 333
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318e6f2b51a63a4692df74009603982
+      internalID: 1564006496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 270
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee3160e2f866a642b1988272c591f97
+      internalID: -297646206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 270
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41aef80cc77be34f9d53749d81e2af8
+      internalID: 1410535044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41b9c6fc8d130b4aa45aeae1b4a86de
+      internalID: 368736062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 205
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323467e2816546e4988e11aeea80443b
+      internalID: 1172823228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 205
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2edde080bcd0240b50b604238681a2
+      internalID: 2073422900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_68
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 205
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a186e6793a4d5154abb9f7ac022bab24
+      internalID: -1556642053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2431df8a1eadbdc418d15fe91772c595
+      internalID: -1336502505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 205
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f241610a24c824dbf3bd1cf554161e
+      internalID: 436529352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_71
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 205
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d8badac6965c4a9e742ce63258a60
+      internalID: 504237870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 141
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4608747313ab40b1f2f438ff8909f
+      internalID: 352729754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d79788525165b24294865f81e015110
+      internalID: 550175843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_74
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 141
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64dfc48f28441459a6889cd1b01821
+      internalID: -1691099486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 141
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c2f7e4adbfa04e9c0414f2eb931a1
+      internalID: 1748278818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 141
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7338368c84034a85d2c4ae766c79a
+      internalID: -192975269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 141
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c1a3130b86804f8411461da4d974c
+      internalID: -499955903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 141
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc9e5e6cb2a6b46a7f22cde5c7c027
+      internalID: 74026627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3535081890410641b3ff625a1f2bc73
+      internalID: -130529514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 67
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f309fc27beade4aa4e1fe55edc9b80
+      internalID: -669524567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_81
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 67
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477bf96df936dcb4f9b3e3285769f86b
+      internalID: 621927381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_82
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 67
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c122e076d3cff6429cfd7ba10182aba
+      internalID: -1311556599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_83
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f96af534dab2fe479c572903d2fc15b
+      internalID: 32303732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 67
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08486a9d264903e49b33cc5f92311ca6
+      internalID: 1796823630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f049607b97e110d49b7c7e26abd85f6b
+      internalID: -1976164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_86
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644305ee09783814fbd66bdc071465d8
+      internalID: -374555371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd7254834399449931e1c25f659401
+      internalID: -787079967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc4153454a8cb4ca49cf4a61b486dc
+      internalID: -949947164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_89
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371d0cf096ff3443a0b505ab4b8720b
+      internalID: -1859493557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_90
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c8ee819c92b0b41be7a67ae1a9069f
+      internalID: 669188895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 4
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524bb58c38e4254fb81ded683a80da8
+      internalID: -271179386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_51: 1634674561
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_32: 1626209907
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_76: -192975269
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_78: 74026627
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_9: -97355703
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_35: 1886046676
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_73: 550175843
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_13: 46785932
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_17: 579762644
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_82: -1311556599
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_65: 368736062
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_19: 1593853447
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_87: -787079967
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_72: 352729754
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_71: 504237870
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_63: -297646206
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_14: 101355189
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_18: 217432124
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_57: 549042578
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_42: -1811834307
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_36: -1429551629
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_40: -871713050
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_45: 291886676
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_49: -2123116887
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_55: 2049334074
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_89: -1859493557
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_58: 2055026683
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_61: -1821086477
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_24: -1744879827
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_50: 818089400
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_84: 1796823630
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_38: -2013881529
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_68: -1556642053
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_60: 1746393960
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_6: -540127342
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_28: 762578329
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_54: -1622666609
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_33: 1193266198
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_2: 816137508
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_31: 931838200
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_91: -271179386
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_59: -351077423
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_8: -1016062981
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_16: -974113993
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_43: 727819837
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_88: -949947164
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_5: 1311000404
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_66: 1172823228
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_62: 1564006496
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_80: -669524567
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_74: -1691099486
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_37: 1659996648
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_44: 747471350
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_48: 1797208500
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_70: 436529352
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_12: -467352234
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_69: -1336502505
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_20: 904383733
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_52: -5657380
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_1: 872489211
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_29: -348369664
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_56: 1500253303
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_79: -130529514
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_85: -1976164107
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_86: -374555371
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_11: -733602835
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_67: 2073422900
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_0: 368383374
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_10: -324080904
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_41: -1797711767
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_25: 1086747057
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_21: -75826947
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_46: -1970018122
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_7: -2082013657
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_47: -1694028668
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_81: 621927381
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_3: 1809114088
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_75: 1748278818
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_53: 1762336944
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_39: -247927174
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_23: -1493781101
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_27: -1831170250
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_90: 669188895
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_83: 32303732
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_26: 455053514
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_64: 1410535044
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_77: -499955903
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_30: 2086717971
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_34: 678856906
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_4: -1256616213
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_15: 1972995181
+      DS DSi - Metal Slug 7 Metal Slug XX - Slug Armor-PhotoRoom.png-PhotoRoom_22: -1060465063
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 64ebb284693907b459f141ddb6a96ec6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0565c7352e686c4c923b4cea0ce16e4
+      internalID: 2146421514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b663f58b4eefc40b6e862fd138d616
+      internalID: -1438172278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bad479c20008f49b17794fe04ea90a
+      internalID: 1521386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6d522b196bb644adf63fa476e0b5d
+      internalID: 2078921345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e661b5df16cd4b479d99a7b2c4a0562
+      internalID: -666689924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651da8eb08f995f4198933f00742c98e
+      internalID: -18020837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44b353a54a2dc459abafa0615c9c29
+      internalID: 1550157824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8437c3343a22e942b509a5f16fe6ffc
+      internalID: -349592956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Mega Man 10 - Explosion Effect_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 13
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a114edc68ca50418d0d496a9035814
+      internalID: 1062185285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wii - Mega Man 10 - Explosion Effect_12: 2027548804
+      Wii - Mega Man 10 - Explosion Effect_17: 1018701234
+      Wii - Mega Man 10 - Explosion Effect_2: 1521386599
+      Wii - Mega Man 10 - Explosion Effect_1: -1438172278
+      Wii - Mega Man 10 - Explosion Effect_11: -18020837
+      Wii - Mega Man 10 - Explosion Effect_10: 43499513
+      Wii - Mega Man 10 - Explosion Effect_9: -1784797163
+      Wii - Mega Man 10 - Explosion Effect_3: -1988116407
+      Wii - Mega Man 10 - Explosion Effect_21: 1062185285
+      Wii - Mega Man 10 - Explosion Effect_18: 1708499432
+      Wii - Mega Man 10 - Explosion Effect_13: 1550157824
+      Wii - Mega Man 10 - Explosion Effect_5: -1047331910
+      Wii - Mega Man 10 - Explosion Effect_4: 1250947337
+      Wii - Mega Man 10 - Explosion Effect_14: -1763851819
+      Wii - Mega Man 10 - Explosion Effect_0: 2146421514
+      Wii - Mega Man 10 - Explosion Effect_20: -349592956
+      Wii - Mega Man 10 - Explosion Effect_16: -1425575523
+      Wii - Mega Man 10 - Explosion Effect_8: -666689924
+      Wii - Mega Man 10 - Explosion Effect_15: -1491472226
+      Wii - Mega Man 10 - Explosion Effect_19: -382889349
+      Wii - Mega Man 10 - Explosion Effect_7: 2078921345
+      Wii - Mega Man 10 - Explosion Effect_6: 1518183057
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

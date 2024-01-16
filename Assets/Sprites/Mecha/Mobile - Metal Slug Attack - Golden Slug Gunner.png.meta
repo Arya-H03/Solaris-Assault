@@ -1,0 +1,5764 @@
+fileFormatVersion: 2
+guid: e8f57a99984e6a249bcf721b32d6a68f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66f1e853caf464b99c23cb040623c9
+      internalID: -275617428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3426b8304bdc87a46882a1b1fd3b250a
+      internalID: 264371234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c442fd726be046952043bc8c1cbf5
+      internalID: 2109328467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee514ba70b157c419d6bc77bf95bcda
+      internalID: -1003475582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_16
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9772d22e5f7eb4499e00ab6321c49a
+      internalID: 704118285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1666
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86f35b4f546314fb5e17632bd858d1
+      internalID: 1759439932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3e03e82171e4340847e4125f0674bd
+      internalID: -499239134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1565
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c57dd22664be49b6c86bd07208d3d
+      internalID: -1065666244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1565
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f5bcbfe35d5f41980e05b17c39799
+      internalID: -1584738904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1565
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4475a777764abaf438c88db678243093
+      internalID: -17201693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1565
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338909cd0f9a28844988bfd94bffe29b
+      internalID: 1897974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1565
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acab39275c42ce489c2f3a32c5c32b6
+      internalID: 1140698293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1565
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcfcbda3c0e4e42a2ac7fe70afcb63
+      internalID: 1459949211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1565
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842d8c4664db3a49be45d6734c90432
+      internalID: 1851921162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1492
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ef26480f15e54880945ee4023aaca
+      internalID: 56136926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1492
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6356049531bd7e45880f2883cc4ead0
+      internalID: -41302443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1492
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5c5d5ab9a69fa408b5fdef549ae0ae
+      internalID: -58040880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1492
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481a79e3a9a09340a2e4e460a2c0c7d
+      internalID: 845449376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1492
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1700ac2750a0e4c8b5e58f31b83b0d
+      internalID: -1874141278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1492
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b28621fd591c47b2a36e16fab008b
+      internalID: 37255972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1492
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868712f3fbcc9a04792809a81a960d3f
+      internalID: -1787964851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1492
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0acfd7011a97f46b49a5665744decf
+      internalID: 1241385375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f3dbe2a05d8b4bb6eb4b549e16ebf
+      internalID: -129722751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1396
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae2ba26f3ca9f4d934f9ecba4cfb1b
+      internalID: -274683158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1396
+        width: 106
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ba21a645908940a003b1b77895bbb
+      internalID: -264688862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1396
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b537520d20e47408b5157c49850389
+      internalID: 1546853099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1406
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364349aaf225e6845bd7e33f4c537b3f
+      internalID: 860013917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1396
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d95b8491b6ab42b69e7265ed5394a
+      internalID: 1360315798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_53
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1406
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24fccf3e2150574988701300b87f032
+      internalID: -711456457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1324
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e599239325ad740b0355f14643075b
+      internalID: -956245526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1324
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ec5bde1430af4286d9687e6281582
+      internalID: -249481916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1324
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29593c274b6f3da4ca159a28b5b9ea58
+      internalID: 781093305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d04edc0ac347440a0ffe5304cdde9c
+      internalID: -1856127327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1224
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f456a50dd88d2f4b8e539fc89b75d2b
+      internalID: -1459993773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_79
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1224
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1e2580494f97b43862cf67729e2038
+      internalID: -327847984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_80
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1224
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f7ca673bb8654b873dbc67f595cbb
+      internalID: 24983618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1224
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551f8cda8d44f824aa168bf3246327e0
+      internalID: 748881169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1224
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657bff2a7829df146b676de0bda9d6de
+      internalID: -1937153588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b33f4a72dacc874f88618b227286a66
+      internalID: 1012093326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_84
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1150
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d202835e72113d41a7ffc1df02fd93b
+      internalID: 132962478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1150
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090824f9a5199547897a92598b7ec69
+      internalID: -1481533567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_86
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1150
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f16a62ec2f06084984cad8a76bb6989
+      internalID: 767298716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_87
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1150
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf5aa35ac6119441ad3847854140e7e
+      internalID: 1042933776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1073
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121fec2166db8624188bf724a709d167
+      internalID: -1936232436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_89
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1073
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf9875723072ff4fa80e7e8c58aa21e
+      internalID: 1939276089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1073
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6dca50a979fbe4ab9490739f073d28
+      internalID: 510929527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_91
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1073
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95dd40b80577284384bb2db94d723a2
+      internalID: -716252671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_92
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1073
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57408e3c82b944aa10bdf20f5dad6d
+      internalID: 685306928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d5eee9ea076f4181f99364ef96ad1
+      internalID: 837799535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_97
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 996
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41a05a30457cd40ad290016e3029cd
+      internalID: 155454373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_98
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1020
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328758dd3a74de240a273eaca281e3f4
+      internalID: 1536179342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_99
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 996
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df66294a3ec364a9cace17ba96eaab
+      internalID: -1970723844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_100
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1026
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712db142aa904846b73556bfc890791
+      internalID: 869462807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 996
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38bd3f9ddf0b1e4c96026bb07391bf0
+      internalID: -821311049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_102
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1021
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eae4127425df049bc954979db8aa60
+      internalID: 955791841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_103
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 996
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7183cb0ba9f5254d8df935c17e53e79
+      internalID: 57352293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_104
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1019
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348c59bd4a9c4f4abfb2fe4ec945c32
+      internalID: 2101451195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e361e92bcf0af4789f7ce6c93a241d
+      internalID: 917358627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 945
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0bdbc92e9aa7c46812b7ed97501170
+      internalID: -485088012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 922
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c663c531d47c4d84fe78dd0cd7547
+      internalID: 1046409757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 945
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b311cdb4c072ea4ca0825fa9de1c343
+      internalID: -211118203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_112
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 922
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b13dc17ae57964f901ee902300a515
+      internalID: 948162480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_113
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 944
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc654a93f07c0c34487a2f8d0aff515d
+      internalID: 1038822071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_114
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 922
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5ec6e5c4627c4bac3ecea9389b59f
+      internalID: 1544548293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_115
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 946
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72139c22d6d9c144a8bcc46e8743391
+      internalID: -694127455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_116
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 922
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72f5d6e7be5ec4eb2c6f2c50a54761
+      internalID: -673663945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_117
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 949
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586800924b5dd66429c4ec29e75231db
+      internalID: 1604010233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 845
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d218d24af71a4244b03707f87c562a9
+      internalID: 2115942318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_119
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 871
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46a7c9e69bf4f4e8653e52d8e5bdbf
+      internalID: 998164998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_120
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 873
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bcd0a88a000fb4293a95b3cf562596
+      internalID: -1864854149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 845
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2cbd83a9cf7184389ac1916b01f665
+      internalID: -332388910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 882
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b9f035c6660b42b110dbeb9a93be6
+      internalID: -2090152913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 876
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803fa0aa80764e4cbe8c2cdd27482c9
+      internalID: -562386188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 845
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47d950ff7a4824ca894940aa3c421b
+      internalID: 574034697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 878
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9ddf7f5b4e8845b6172cad3fc9b36
+      internalID: -2010553374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_126
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 875
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd60434eb51b1864ea0d23cafcaef15b
+      internalID: -1922898367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_127
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 845
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4330aa077647bff429944299f1727568
+      internalID: -1525759762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_128
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 880
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254c2ddab88d1a479e55a9ec9b3da8c
+      internalID: -539943395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_129
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 845
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c48e27f375fef449162afe5e464df3
+      internalID: 725580017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_130
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 880
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842ad8506bd7f3438b9b0d12bb02940
+      internalID: 807543472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689f665f937dd843994f76706ea68d2
+      internalID: 1595775204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_132
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 803
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fd07dbfa160e4990d7dbe09b50343
+      internalID: -1823334591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 821
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d234a9d90479544a33132c559f30e4
+      internalID: -50166622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 746
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa66e681b86b5e347ba4f6533c28cf10
+      internalID: -1357581703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_137
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f1ec8f9f675e2408a583b555aa7287
+      internalID: -1381207415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_138
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d03e1da2153d429333cfd6b96f199
+      internalID: -1272714539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_139
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 821
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a76996eadd07e4e8ad2d3927c8423d
+      internalID: -477866730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_140
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142e2f70c269324284355baac8f0e1e
+      internalID: 67883606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_141
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 817
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040d2f1b53b83f44a9f374487f63506
+      internalID: -1019836433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 818
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535fe646dec1154496e07deb1e12327
+      internalID: -1398817419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_143
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 821
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ed13bb75ff6843b716125f411f64a
+      internalID: 612874295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_144
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 746
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b68cb48a1a5541a3bc79224fbd3ec
+      internalID: -2074182362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 821
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b409fc0f8f92ff47ba8cfa098698f29
+      internalID: 350008280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_146
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27336cc991af833478c8ee618f733899
+      internalID: 1564326664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_147
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 817
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb32a26953586c42b70616fd0c72438
+      internalID: -985726636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_148
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea12278d353caaf42add8b2b41d008f1
+      internalID: 1076804371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_149
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 821
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fb0281b225f2d48a7520cf3d0a532c
+      internalID: 222223116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_150
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c6040887902794d91f2e28619ddd72
+      internalID: 1435604479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_151
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 817
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95a876d57f5da4bbfa452b7ed20618
+      internalID: -2101555456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_152
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 821
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a304c937f5a24ba8f09277380da09
+      internalID: -1317620607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_153
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dad4ea703b9a3459e709714cc1e19a
+      internalID: -334443632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_154
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 817
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974a50be9266dd498dc7aa60e4c58e6
+      internalID: 654376702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_155
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 821
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61623d50ae381874fad9feafb74e6660
+      internalID: -700394828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_156
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 821
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c56109c46e1091499ed0c62f82a90a4
+      internalID: -386651588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_157
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 746
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104fc4d8b5ca864cba066600f830678
+      internalID: 749158093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_158
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 817
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89437f119b9bec8419865b65705d7575
+      internalID: 719471467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_159
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 746
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7977c2581be454eb85e344fd62158b
+      internalID: 267459439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_160
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 746
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f59a637336184b8dbf5cbb1250809
+      internalID: -1777647588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6574e5b4368a44e9bf34b37193a07d
+      internalID: -1953560476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_162
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 722
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da0371fa197044ab72127c7dacf77a
+      internalID: -554783017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_163
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89227315ff0a8041a3f7415d64da88d
+      internalID: -1881179494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_164
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ccf9dc118c434d8c96cabd2387bb2
+      internalID: -2037581118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_165
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 722
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9b9bf9806f0d4c98d55145efa9377
+      internalID: -1633759738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 722
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3dcfc1c365b940bb61fe41b81badf
+      internalID: 1980582421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_167
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ee90d14d722147bbc99df719e8ea8
+      internalID: 93253099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_168
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb75242a493254bb5ed48ad69e97c4
+      internalID: -993337853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_169
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10b94f7ed0159543af913c9d0b07c3b
+      internalID: 864029586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_170
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37716e475aceffc4fa1acab27a8be2ce
+      internalID: -1491366778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 722
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8fbe505c11bc4ab01a20a9e4cd619
+      internalID: 356622264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_172
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 718
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1235e663ff704e64abd924a54aed5439
+      internalID: -1654845068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_173
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 722
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61cf3ac6d04b0e45a6c59fb8bf9d18e
+      internalID: 926081656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_174
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 722
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabc5b035568b44382383f032b39526
+      internalID: 1265740805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_175
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 718
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb95f162a32fd40b75553e3e581a81
+      internalID: 623514109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ad4f01cf47764789274e51b2c68d7
+      internalID: 1016821356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_177
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 631
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370f957df40c4d4cbfd79653aeb80aa
+      internalID: 234993946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_178
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 631
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d347cf5dc44c1664bb4cf48d69ac8f95
+      internalID: 803953780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_179
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 631
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4b23de2665e4468fac15b79d01862
+      internalID: -129029785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_180
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 631
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e81fbccc06c045a91bb7712696b9d
+      internalID: 1904899931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_181
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 631
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff3dbfa2fefc542bedf2f827678a19
+      internalID: 2089694945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_182
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 631
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575299d18b30ea4294aadf3763372d9
+      internalID: -901419739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 621
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f888fa4b62350d4f902d8f1a933e80f
+      internalID: 330695606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_184
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 549
+        width: 103
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18838aa5e31dad4794976fbd95d3dab
+      internalID: -1993640760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9aca0f4583814e9711277fcf01d89
+      internalID: -1976169876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_186
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 549
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379ee69ba384596438184fdd14c35292
+      internalID: 1459626819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_187
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 575
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53b5572bbf2704390d1de4bc90d1e8
+      internalID: 1164703546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 549
+        width: 111
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330a834e759d69499b4098c4583b93c
+      internalID: 1051819021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_189
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 549
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b8041fc6d301e4caad04795e81c85d
+      internalID: -1588967459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_190
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 549
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c47cf62deed024a98d0d3a015eba04
+      internalID: -490311531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd4c832e806d4b4abfa45f9c8fb9460
+      internalID: 794138348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 472
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd183ac94165b74e890e69a8510d3f4
+      internalID: 244694811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_193
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 468
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ce5543a3b4bc4da1eeab75090a9d2
+      internalID: 1979519648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_194
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 469
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c3c82d44975743a422e65da2df160
+      internalID: 102153027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_195
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 468
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb110719eec3b4e97e33a68dc4d473
+      internalID: 805074120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 469
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6063918dca6966c4dbbcaa1f8e0fac88
+      internalID: -2138352525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_197
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 468
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170f9c1155261343887e6be30da4e56
+      internalID: -2139100835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_198
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 472
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a019c4a01c8f11242984aeb5f5328a4a
+      internalID: -1904681170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_199
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 468
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c25977f91cc24f817eb140cc2bc05
+      internalID: -1233671969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_200
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 470
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31533ebb149e04bbaa54d9d32a77d8
+      internalID: -768567283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_201
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 472
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b62c8c939157894783358d2c7b63dc7
+      internalID: -1891604356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c52ad955f2c941ae5c533d2310599
+      internalID: 140674110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_203
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 457
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03bba14f8d20fb4f976e191331468a4
+      internalID: -53194995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_204
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 397
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffd4909c4b6af45a5f1954347bef01
+      internalID: -1916495429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_205
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 391
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae88e0530693904db3666e6959d4c53
+      internalID: 1645096606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_206
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b047229833954aa6ea7bfb977e775
+      internalID: 684093183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_207
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 391
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ddfd5438a2f704a886b62235d8f5b4
+      internalID: 1481202928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_208
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 388
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd422f01118fd4d993f30dcd19fb05
+      internalID: -296491164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_209
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f997cc971176d40b0087139bc6df4a
+      internalID: 1842157478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_210
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 394
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c1b114f8884147aa7b92269c75b1f
+      internalID: 293669375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_211
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 383
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbeba50ffb29dd46b7900a222fe9d06
+      internalID: -689684159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_212
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 397
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f6f353d5455d04ebd404bff779e04a
+      internalID: -1369079054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_213
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 383
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1b8b5745a0bf40ac0f8ff040c86ac
+      internalID: -772364233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_214
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 401
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08113539c055fbe42840a8bde8e52c75
+      internalID: -1832357240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_215
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 416
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c4519279bc03498350cee48aa1cb9
+      internalID: -2141475505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_216
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 408
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d6978e3975bc6448846ffd2e065442
+      internalID: 1936783163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0101b042c64a6a46bcaeaf5137d84c7
+      internalID: 489212033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_218
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96024a55e303a4b4cb0a36bec694a063
+      internalID: -839340965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_219
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 359
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2160d4e651d071f41b6beb17b97fe1f2
+      internalID: -1233570239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_220
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2c46f5f62a364880f091f2df00ea6
+      internalID: 571786671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_221
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 359
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203515f1c02744c49acd06a907889d80
+      internalID: -590270021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_222
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 359
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07704eaf06b2a4a8577785676d32f2
+      internalID: -1691202715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_223
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 359
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd1b4610ba3594c888e4292d2ef4ac
+      internalID: -1189422389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_224
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bfecaf39918c14f80155dba28de14c
+      internalID: -2043561820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_225
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 359
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05cbf1a3a3d41b48b00aa270fd03244
+      internalID: -527322113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_226
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 359
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8399b535181f9904cb3e516fcbd134bc
+      internalID: 1971027033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_227
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7932be91d7bf894b8ad467520b16fc7
+      internalID: -828722945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_228
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 287
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942ac9ab37462f419a5eb49a60227f4
+      internalID: 613800835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_229
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd811dfc43a35054a96654d57e0a1da7
+      internalID: 345876464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_230
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 287
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceffd515ddf38342bf2bfbb028844c6
+      internalID: 1467924327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_231
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71ae9e7862f0c4bbbfe25630f025a8
+      internalID: -695152605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_232
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 287
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50990bc3ca5f14caef8f7841cb92e6
+      internalID: -1288851278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_233
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 287
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794feefaab0ab4042bf91b7fae216aca
+      internalID: -376728631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_234
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 287
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb29d75e9be8f4e94cf770d879cf51
+      internalID: -1745712698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_235
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab16e33dda151d4292e5c47fb50137c
+      internalID: -1206838541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_236
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 216
+        width: 91
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550934eff3f3e6b4bbda3df99b67a989
+      internalID: -1520125200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_237
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 216
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215a345d095a6e43853f412862151ad
+      internalID: 877430243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_238
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 216
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee7a3f1519ea443a329e021465680c
+      internalID: -185841523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_239
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 216
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b2e94b3327ac4f8dab9fccf9a896d
+      internalID: -1911285155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_240
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 216
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f83345ae330634898f5158bdfae308
+      internalID: 822736920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_241
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 216
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533bb4aebc555e2428928e26e9d69914
+      internalID: 1809077742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_242
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 216
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b30fad6d73304a827d5b581531d06
+      internalID: 2082949352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b20132e47d255488e081c002642235
+      internalID: -1915339764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_244
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1789db8af899a4f89a9366789d5f3d
+      internalID: 551710922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_245
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0527ba78c64d8429893335cba4be73
+      internalID: -435290822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_246
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04224339bae4049469233fd27cdff5f6
+      internalID: -371186974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_247
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b1c8363b840164ab3b44872f546164
+      internalID: 441414982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_248
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bd74603ceff4343bea03d98c5af549
+      internalID: 419640923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_249
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c8fc91c2a01646a502322f039b7aa
+      internalID: -629031774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_250
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 144
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487039522fcae1a4a9da84d5497143c0
+      internalID: 1716054672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_251
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3599c20d1e08b7419eb051ab20dfcad
+      internalID: 2124366922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_252
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec9f3426a38ae4bb6af2c845f73fc2
+      internalID: 1823451655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_253
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423173b7b86d2fd498a0cd77fc7a8151
+      internalID: -1324197667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_254
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc0fd7b8902f3418fff02607ddee97
+      internalID: 1833581462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_255
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796346ef505e7284a934db2e03526ae0
+      internalID: 1446196844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_256
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f575881b0e71694c97cad517b179690
+      internalID: 813181828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_257
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d971ba7bdde584592feeadecfa9934
+      internalID: -1392846900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_258
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 72
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e0153074bc9f4fbe6734287eb989e
+      internalID: -245769884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2c4401d07b3a479fc694981588a63
+      internalID: 966467449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_260
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94691bd4dae1e0b49ac8cddc5da69fbe
+      internalID: -1113955192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_261
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9861c13e69fcf40af1cd51da895480
+      internalID: -1242743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_262
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 49
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2cae3f28e31a4a946482fc8f6fce5
+      internalID: -1589243089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_263
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 38
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26153681039942d4badd521aacac50c5
+      internalID: 44201631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_264
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 57
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b3e6b83babfe4d97524e3dc314b1e
+      internalID: -2097629989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_265
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 57
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43270fe14b07034479ca82e910f0e132
+      internalID: 1841251098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_266
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ee49fc35ccbb45bd0b1c69d18b63a
+      internalID: 936711058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_267
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8b780204584443941bb47d6e6571f
+      internalID: 1812698800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_268
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a71926e86d284f8870167d913c85b
+      internalID: -904340139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_269
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 57
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3593c9e90d93443b59725de5378f3a
+      internalID: 970358672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_270
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7f586a8524674cb43ca27cbcf40b8
+      internalID: 60089483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_271
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ef1d00d5f36ed4ea9f712c0bab7e00
+      internalID: -526365787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_272
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c87c3049d1d2408d72fe422d3426c
+      internalID: 204790302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_273
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3812502e92aa324583dc07bb3830cda
+      internalID: -2094786329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_274
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 57
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b8913162c1ad4a90474d876c495c5
+      internalID: 444591399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_275
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72af60002c313bc4483742802594383e
+      internalID: 92439359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_276
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 57
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8aae605d8cba4a99e325f1f42dfff
+      internalID: 1378009601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_277
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31543d43ce5b2bb4eae881b69c426d36
+      internalID: 879392372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_278
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 57
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df7f35de8cd0b43a6fafe6770e4ba5
+      internalID: -2106325063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_279
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 57
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aa0025456124b49be063d281c386b3
+      internalID: -940383588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_280
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 57
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190b20dcf5632444bc4c0704bf35f05
+      internalID: 370156064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_281
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 55
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e662e906dfa3459b3cdc5812d93f7
+      internalID: 1863925347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_282
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24094c2499be94b49b86ed9d92a6d73f
+      internalID: -1253248657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_283
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ffceb83c7934843b21a253294c5ae6
+      internalID: 1026169942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_284
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 57
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422cfca8c9dd534889183a35584523e
+      internalID: 982286542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_285
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 20
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092367b57fc6e94f8c3562b01b0c951
+      internalID: -796069139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_286
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 20
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f6e3001bfc074081c7c557694dc57
+      internalID: 1960018669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_287
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2988590309bb4324fb1b2b3a2fc05aac
+      internalID: -933470757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_288
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 20
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed2f124f9dde240a0bf3af415e431f
+      internalID: -74804602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_289
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51df05552411e8a4db0ad4b162477b3f
+      internalID: -1337602780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_290
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 11
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf49b81534ade45adcc93082360deb
+      internalID: 1227650953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_291
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d2a4a4d9dbf7b44ba5c7e66f891956
+      internalID: -1763210033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_292
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 34
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625aaaf9fd120cc4da9e7d44bfd096c5
+      internalID: -1155969557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_293
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73957cdcfc800449d4f6c400d9e961
+      internalID: -1601315358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_294
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd5f1c21bf25f4ea6a0146b9acf9e7
+      internalID: 890320234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_295
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 29
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe481f307859930468363e8dcb7be9ca
+      internalID: -1991868522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_296
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 29
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7a844bd6a8a24ba5125def77b6c2e
+      internalID: 434462996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_297
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 20
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f200d4e009e443827b9800afa886f
+      internalID: -928288207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_298
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 20
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e248d9aa71d4cc4c86550ec95a12881
+      internalID: 1445735598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_299
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 20
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c98791ba6d48b141868a39cecee174c
+      internalID: 1871916614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_300
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 20
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a26f4f14bde5a4da2801171dfae4c9
+      internalID: 1340462792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_301
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0af9defce8cc247b67b6237f0c7131
+      internalID: 449336865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_302
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 20
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b89f7539b4874d9ee5d30a0db01e5
+      internalID: -430977848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_303
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea347f967b92d9744a5cdd60b722281d
+      internalID: 1699027918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_304
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff3907a539c25c42a7e1d967efa5bef
+      internalID: -247465939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_305
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7bdd4c19fca28498ab64e57a932412
+      internalID: 1778194291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Golden Slug Gunner_306
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 13
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc68b1e47138324db057140b6071c5a
+      internalID: -2111977625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Metal Slug Attack - Golden Slug Gunner_236: -1520125200
+      Mobile - Metal Slug Attack - Golden Slug Gunner_40: -1902414546
+      Mobile - Metal Slug Attack - Golden Slug Gunner_54: -956245526
+      Mobile - Metal Slug Attack - Golden Slug Gunner_232: -1288851278
+      Mobile - Metal Slug Attack - Golden Slug Gunner_93: 837799535
+      Mobile - Metal Slug Attack - Golden Slug Gunner_79: -327847984
+      Mobile - Metal Slug Attack - Golden Slug Gunner_56: 781093305
+      Mobile - Metal Slug Attack - Golden Slug Gunner_252: 1823451655
+      Mobile - Metal Slug Attack - Golden Slug Gunner_261: -1242743670
+      Mobile - Metal Slug Attack - Golden Slug Gunner_44: -1900046463
+      Mobile - Metal Slug Attack - Golden Slug Gunner_118: 2115942318
+      Mobile - Metal Slug Attack - Golden Slug Gunner_129: 725580017
+      Mobile - Metal Slug Attack - Golden Slug Gunner_0: 1538380189
+      Mobile - Metal Slug Attack - Golden Slug Gunner_31: 56136926
+      Mobile - Metal Slug Attack - Golden Slug Gunner_65: 330487453
+      Mobile - Metal Slug Attack - Golden Slug Gunner_172: -1654845068
+      Mobile - Metal Slug Attack - Golden Slug Gunner_47: -129722751
+      Mobile - Metal Slug Attack - Golden Slug Gunner_216: 1936783163
+      Mobile - Metal Slug Attack - Golden Slug Gunner_151: -2101555456
+      Mobile - Metal Slug Attack - Golden Slug Gunner_67: 1712368386
+      Mobile - Metal Slug Attack - Golden Slug Gunner_37: -1787964851
+      Mobile - Metal Slug Attack - Golden Slug Gunner_260: -1113955192
+      Mobile - Metal Slug Attack - Golden Slug Gunner_87: 1042933776
+      Mobile - Metal Slug Attack - Golden Slug Gunner_272: 204790302
+      Mobile - Metal Slug Attack - Golden Slug Gunner_292: -1155969557
+      Mobile - Metal Slug Attack - Golden Slug Gunner_249: -629031774
+      Mobile - Metal Slug Attack - Golden Slug Gunner_285: -796069139
+      Mobile - Metal Slug Attack - Golden Slug Gunner_48: -274683158
+      Mobile - Metal Slug Attack - Golden Slug Gunner_218: -839340965
+      Mobile - Metal Slug Attack - Golden Slug Gunner_52: 1360315798
+      Mobile - Metal Slug Attack - Golden Slug Gunner_71: 1734364792
+      Mobile - Metal Slug Attack - Golden Slug Gunner_202: 140674110
+      Mobile - Metal Slug Attack - Golden Slug Gunner_162: -554783017
+      Mobile - Metal Slug Attack - Golden Slug Gunner_213: -772364233
+      Mobile - Metal Slug Attack - Golden Slug Gunner_114: 1544548293
+      Mobile - Metal Slug Attack - Golden Slug Gunner_273: -2094786329
+      Mobile - Metal Slug Attack - Golden Slug Gunner_255: 1446196844
+      Mobile - Metal Slug Attack - Golden Slug Gunner_20: 49248155
+      Mobile - Metal Slug Attack - Golden Slug Gunner_143: 612874295
+      Mobile - Metal Slug Attack - Golden Slug Gunner_160: -1777647588
+      Mobile - Metal Slug Attack - Golden Slug Gunner_81: 748881169
+      Mobile - Metal Slug Attack - Golden Slug Gunner_178: 803953780
+      Mobile - Metal Slug Attack - Golden Slug Gunner_303: 1699027918
+      Mobile - Metal Slug Attack - Golden Slug Gunner_256: 813181828
+      Mobile - Metal Slug Attack - Golden Slug Gunner_142: -1398817419
+      Mobile - Metal Slug Attack - Golden Slug Gunner_195: 805074120
+      Mobile - Metal Slug Attack - Golden Slug Gunner_38: 1241385375
+      Mobile - Metal Slug Attack - Golden Slug Gunner_173: 926081656
+      Mobile - Metal Slug Attack - Golden Slug Gunner_95: 1660087055
+      Mobile - Metal Slug Attack - Golden Slug Gunner_148: 1076804371
+      Mobile - Metal Slug Attack - Golden Slug Gunner_39: 1490924836
+      Mobile - Metal Slug Attack - Golden Slug Gunner_60: -922738204
+      Mobile - Metal Slug Attack - Golden Slug Gunner_299: 1871916614
+      Mobile - Metal Slug Attack - Golden Slug Gunner_86: 767298716
+      Mobile - Metal Slug Attack - Golden Slug Gunner_83: 1012093326
+      Mobile - Metal Slug Attack - Golden Slug Gunner_287: -933470757
+      Mobile - Metal Slug Attack - Golden Slug Gunner_61: -2055607257
+      Mobile - Metal Slug Attack - Golden Slug Gunner_135: -50166622
+      Mobile - Metal Slug Attack - Golden Slug Gunner_104: 2101451195
+      Mobile - Metal Slug Attack - Golden Slug Gunner_176: 1016821356
+      Mobile - Metal Slug Attack - Golden Slug Gunner_268: -904340139
+      Mobile - Metal Slug Attack - Golden Slug Gunner_306: -2111977625
+      Mobile - Metal Slug Attack - Golden Slug Gunner_177: 234993946
+      Mobile - Metal Slug Attack - Golden Slug Gunner_259: 966467449
+      Mobile - Metal Slug Attack - Golden Slug Gunner_88: -1936232436
+      Mobile - Metal Slug Attack - Golden Slug Gunner_72: -221095630
+      Mobile - Metal Slug Attack - Golden Slug Gunner_169: 864029586
+      Mobile - Metal Slug Attack - Golden Slug Gunner_297: -928288207
+      Mobile - Metal Slug Attack - Golden Slug Gunner_185: -1976169876
+      Mobile - Metal Slug Attack - Golden Slug Gunner_214: -1832357240
+      Mobile - Metal Slug Attack - Golden Slug Gunner_103: 57352293
+      Mobile - Metal Slug Attack - Golden Slug Gunner_27: 1897974999
+      Mobile - Metal Slug Attack - Golden Slug Gunner_3: -1839720409
+      Mobile - Metal Slug Attack - Golden Slug Gunner_6: -233612163
+      Mobile - Metal Slug Attack - Golden Slug Gunner_98: 1536179342
+      Mobile - Metal Slug Attack - Golden Slug Gunner_68: -2007166428
+      Mobile - Metal Slug Attack - Golden Slug Gunner_69: -1401070163
+      Mobile - Metal Slug Attack - Golden Slug Gunner_147: -985726636
+      Mobile - Metal Slug Attack - Golden Slug Gunner_41: 797797522
+      Mobile - Metal Slug Attack - Golden Slug Gunner_298: 1445735598
+      Mobile - Metal Slug Attack - Golden Slug Gunner_116: -673663945
+      Mobile - Metal Slug Attack - Golden Slug Gunner_163: -1881179494
+      Mobile - Metal Slug Attack - Golden Slug Gunner_180: 1904899931
+      Mobile - Metal Slug Attack - Golden Slug Gunner_168: -993337853
+      Mobile - Metal Slug Attack - Golden Slug Gunner_254: 1833581462
+      Mobile - Metal Slug Attack - Golden Slug Gunner_258: -245769884
+      Mobile - Metal Slug Attack - Golden Slug Gunner_175: 623514109
+      Mobile - Metal Slug Attack - Golden Slug Gunner_18: 1955697248
+      Mobile - Metal Slug Attack - Golden Slug Gunner_121: -332388910
+      Mobile - Metal Slug Attack - Golden Slug Gunner_137: -1381207415
+      Mobile - Metal Slug Attack - Golden Slug Gunner_281: 1863925347
+      Mobile - Metal Slug Attack - Golden Slug Gunner_239: -1911285155
+      Mobile - Metal Slug Attack - Golden Slug Gunner_265: 1841251098
+      Mobile - Metal Slug Attack - Golden Slug Gunner_96: 525232969
+      Mobile - Metal Slug Attack - Golden Slug Gunner_192: 244694811
+      Mobile - Metal Slug Attack - Golden Slug Gunner_152: -1317620607
+      Mobile - Metal Slug Attack - Golden Slug Gunner_186: 1459626819
+      Mobile - Metal Slug Attack - Golden Slug Gunner_24: -1065666244
+      Mobile - Metal Slug Attack - Golden Slug Gunner_223: -1189422389
+      Mobile - Metal Slug Attack - Golden Slug Gunner_26: -17201693
+      Mobile - Metal Slug Attack - Golden Slug Gunner_200: -768567283
+      Mobile - Metal Slug Attack - Golden Slug Gunner_251: 2124366922
+      Mobile - Metal Slug Attack - Golden Slug Gunner_266: 936711058
+      Mobile - Metal Slug Attack - Golden Slug Gunner_270: 60089483
+      Mobile - Metal Slug Attack - Golden Slug Gunner_230: 1467924327
+      Mobile - Metal Slug Attack - Golden Slug Gunner_110: 1046409757
+      Mobile - Metal Slug Attack - Golden Slug Gunner_17: 1759439932
+      Mobile - Metal Slug Attack - Golden Slug Gunner_25: -1584738904
+      Mobile - Metal Slug Attack - Golden Slug Gunner_14: 2109328467
+      Mobile - Metal Slug Attack - Golden Slug Gunner_9: -1632864602
+      Mobile - Metal Slug Attack - Golden Slug Gunner_149: 222223116
+      Mobile - Metal Slug Attack - Golden Slug Gunner_133: 773783697
+      Mobile - Metal Slug Attack - Golden Slug Gunner_131: 1595775204
+      Mobile - Metal Slug Attack - Golden Slug Gunner_73: -1520757000
+      Mobile - Metal Slug Attack - Golden Slug Gunner_125: -2010553374
+      Mobile - Metal Slug Attack - Golden Slug Gunner_94: -2142930255
+      Mobile - Metal Slug Attack - Golden Slug Gunner_59: 1043341026
+      Mobile - Metal Slug Attack - Golden Slug Gunner_179: -129029785
+      Mobile - Metal Slug Attack - Golden Slug Gunner_126: -1922898367
+      Mobile - Metal Slug Attack - Golden Slug Gunner_34: 845449376
+      Mobile - Metal Slug Attack - Golden Slug Gunner_111: -211118203
+      Mobile - Metal Slug Attack - Golden Slug Gunner_244: 551710922
+      Mobile - Metal Slug Attack - Golden Slug Gunner_208: -296491164
+      Mobile - Metal Slug Attack - Golden Slug Gunner_248: 419640923
+      Mobile - Metal Slug Attack - Golden Slug Gunner_211: -689684159
+      Mobile - Metal Slug Attack - Golden Slug Gunner_242: 2082949352
+      Mobile - Metal Slug Attack - Golden Slug Gunner_245: -435290822
+      Mobile - Metal Slug Attack - Golden Slug Gunner_250: 1716054672
+      Mobile - Metal Slug Attack - Golden Slug Gunner_263: 44201631
+      Mobile - Metal Slug Attack - Golden Slug Gunner_225: -527322113
+      Mobile - Metal Slug Attack - Golden Slug Gunner_199: -1233671969
+      Mobile - Metal Slug Attack - Golden Slug Gunner_82: -1937153588
+      Mobile - Metal Slug Attack - Golden Slug Gunner_43: 211052116
+      Mobile - Metal Slug Attack - Golden Slug Gunner_193: 1979519648
+      Mobile - Metal Slug Attack - Golden Slug Gunner_155: -700394828
+      Mobile - Metal Slug Attack - Golden Slug Gunner_80: 24983618
+      Mobile - Metal Slug Attack - Golden Slug Gunner_237: 877430243
+      Mobile - Metal Slug Attack - Golden Slug Gunner_161: -1953560476
+      Mobile - Metal Slug Attack - Golden Slug Gunner_32: -41302443
+      Mobile - Metal Slug Attack - Golden Slug Gunner_42: -652626392
+      Mobile - Metal Slug Attack - Golden Slug Gunner_63: -1084553850
+      Mobile - Metal Slug Attack - Golden Slug Gunner_222: -1691202715
+      Mobile - Metal Slug Attack - Golden Slug Gunner_271: -526365787
+      Mobile - Metal Slug Attack - Golden Slug Gunner_2: -1938252693
+      Mobile - Metal Slug Attack - Golden Slug Gunner_10: -1292342412
+      Mobile - Metal Slug Attack - Golden Slug Gunner_279: -940383588
+      Mobile - Metal Slug Attack - Golden Slug Gunner_159: 267459439
+      Mobile - Metal Slug Attack - Golden Slug Gunner_283: 1026169942
+      Mobile - Metal Slug Attack - Golden Slug Gunner_181: 2089694945
+      Mobile - Metal Slug Attack - Golden Slug Gunner_13: 264371234
+      Mobile - Metal Slug Attack - Golden Slug Gunner_139: -477866730
+      Mobile - Metal Slug Attack - Golden Slug Gunner_302: -430977848
+      Mobile - Metal Slug Attack - Golden Slug Gunner_276: 1378009601
+      Mobile - Metal Slug Attack - Golden Slug Gunner_210: 293669375
+      Mobile - Metal Slug Attack - Golden Slug Gunner_275: 92439359
+      Mobile - Metal Slug Attack - Golden Slug Gunner_288: -74804602
+      Mobile - Metal Slug Attack - Golden Slug Gunner_19: -1736007852
+      Mobile - Metal Slug Attack - Golden Slug Gunner_294: 890320234
+      Mobile - Metal Slug Attack - Golden Slug Gunner_304: -247465939
+      Mobile - Metal Slug Attack - Golden Slug Gunner_105: -2119715423
+      Mobile - Metal Slug Attack - Golden Slug Gunner_284: 982286542
+      Mobile - Metal Slug Attack - Golden Slug Gunner_233: -376728631
+      Mobile - Metal Slug Attack - Golden Slug Gunner_247: 441414982
+      Mobile - Metal Slug Attack - Golden Slug Gunner_75: 1886803377
+      Mobile - Metal Slug Attack - Golden Slug Gunner_190: -490311531
+      Mobile - Metal Slug Attack - Golden Slug Gunner_290: 1227650953
+      Mobile - Metal Slug Attack - Golden Slug Gunner_220: 571786671
+      Mobile - Metal Slug Attack - Golden Slug Gunner_156: -386651588
+      Mobile - Metal Slug Attack - Golden Slug Gunner_127: -1525759762
+      Mobile - Metal Slug Attack - Golden Slug Gunner_106: 78016436
+      Mobile - Metal Slug Attack - Golden Slug Gunner_76: 186203054
+      Mobile - Metal Slug Attack - Golden Slug Gunner_15: -1003475582
+      Mobile - Metal Slug Attack - Golden Slug Gunner_234: -1745712698
+      Mobile - Metal Slug Attack - Golden Slug Gunner_174: 1265740805
+      Mobile - Metal Slug Attack - Golden Slug Gunner_286: 1960018669
+      Mobile - Metal Slug Attack - Golden Slug Gunner_132: -1823334591
+      Mobile - Metal Slug Attack - Golden Slug Gunner_50: 1546853099
+      Mobile - Metal Slug Attack - Golden Slug Gunner_108: 917358627
+      Mobile - Metal Slug Attack - Golden Slug Gunner_269: 970358672
+      Mobile - Metal Slug Attack - Golden Slug Gunner_70: -2013245266
+      Mobile - Metal Slug Attack - Golden Slug Gunner_146: 1564326664
+      Mobile - Metal Slug Attack - Golden Slug Gunner_16: 704118285
+      Mobile - Metal Slug Attack - Golden Slug Gunner_164: -2037581118
+      Mobile - Metal Slug Attack - Golden Slug Gunner_109: -485088012
+      Mobile - Metal Slug Attack - Golden Slug Gunner_130: 807543472
+      Mobile - Metal Slug Attack - Golden Slug Gunner_154: 654376702
+      Mobile - Metal Slug Attack - Golden Slug Gunner_235: -1206838541
+      Mobile - Metal Slug Attack - Golden Slug Gunner_12: -275617428
+      Mobile - Metal Slug Attack - Golden Slug Gunner_238: -185841523
+      Mobile - Metal Slug Attack - Golden Slug Gunner_119: 998164998
+      Mobile - Metal Slug Attack - Golden Slug Gunner_184: -1993640760
+      Mobile - Metal Slug Attack - Golden Slug Gunner_91: -716252671
+      Mobile - Metal Slug Attack - Golden Slug Gunner_51: 860013917
+      Mobile - Metal Slug Attack - Golden Slug Gunner_206: 684093183
+      Mobile - Metal Slug Attack - Golden Slug Gunner_229: 345876464
+      Mobile - Metal Slug Attack - Golden Slug Gunner_301: 449336865
+      Mobile - Metal Slug Attack - Golden Slug Gunner_204: -1916495429
+      Mobile - Metal Slug Attack - Golden Slug Gunner_278: -2106325063
+      Mobile - Metal Slug Attack - Golden Slug Gunner_33: -58040880
+      Mobile - Metal Slug Attack - Golden Slug Gunner_197: -2139100835
+      Mobile - Metal Slug Attack - Golden Slug Gunner_241: 1809077742
+      Mobile - Metal Slug Attack - Golden Slug Gunner_274: 444591399
+      Mobile - Metal Slug Attack - Golden Slug Gunner_74: -1418637837
+      Mobile - Metal Slug Attack - Golden Slug Gunner_115: -694127455
+      Mobile - Metal Slug Attack - Golden Slug Gunner_117: 1604010233
+      Mobile - Metal Slug Attack - Golden Slug Gunner_257: -1392846900
+      Mobile - Metal Slug Attack - Golden Slug Gunner_295: -1991868522
+      Mobile - Metal Slug Attack - Golden Slug Gunner_289: -1337602780
+      Mobile - Metal Slug Attack - Golden Slug Gunner_141: -1019836433
+      Mobile - Metal Slug Attack - Golden Slug Gunner_45: 403769487
+      Mobile - Metal Slug Attack - Golden Slug Gunner_90: 510929527
+      Mobile - Metal Slug Attack - Golden Slug Gunner_29: 1459949211
+      Mobile - Metal Slug Attack - Golden Slug Gunner_57: -112944642
+      Mobile - Metal Slug Attack - Golden Slug Gunner_89: 1939276089
+      Mobile - Metal Slug Attack - Golden Slug Gunner_217: 489212033
+      Mobile - Metal Slug Attack - Golden Slug Gunner_224: -2043561820
+      Mobile - Metal Slug Attack - Golden Slug Gunner_207: 1481202928
+      Mobile - Metal Slug Attack - Golden Slug Gunner_226: 1971027033
+      Mobile - Metal Slug Attack - Golden Slug Gunner_5: -137725873
+      Mobile - Metal Slug Attack - Golden Slug Gunner_30: 1851921162
+      Mobile - Metal Slug Attack - Golden Slug Gunner_77: -1856127327
+      Mobile - Metal Slug Attack - Golden Slug Gunner_92: 685306928
+      Mobile - Metal Slug Attack - Golden Slug Gunner_246: -371186974
+      Mobile - Metal Slug Attack - Golden Slug Gunner_134: -18501818
+      Mobile - Metal Slug Attack - Golden Slug Gunner_21: 90641682
+      Mobile - Metal Slug Attack - Golden Slug Gunner_102: 955791841
+      Mobile - Metal Slug Attack - Golden Slug Gunner_296: 434462996
+      Mobile - Metal Slug Attack - Golden Slug Gunner_144: -2074182362
+      Mobile - Metal Slug Attack - Golden Slug Gunner_157: 749158093
+      Mobile - Metal Slug Attack - Golden Slug Gunner_22: 601679789
+      Mobile - Metal Slug Attack - Golden Slug Gunner_123: -562386188
+      Mobile - Metal Slug Attack - Golden Slug Gunner_167: 93253099
+      Mobile - Metal Slug Attack - Golden Slug Gunner_201: -1891604356
+      Mobile - Metal Slug Attack - Golden Slug Gunner_280: 370156064
+      Mobile - Metal Slug Attack - Golden Slug Gunner_1: 1166558412
+      Mobile - Metal Slug Attack - Golden Slug Gunner_243: -1915339764
+      Mobile - Metal Slug Attack - Golden Slug Gunner_23: -499239134
+      Mobile - Metal Slug Attack - Golden Slug Gunner_112: 948162480
+      Mobile - Metal Slug Attack - Golden Slug Gunner_205: 1645096606
+      Mobile - Metal Slug Attack - Golden Slug Gunner_212: -1369079054
+      Mobile - Metal Slug Attack - Golden Slug Gunner_166: 1980582421
+      Mobile - Metal Slug Attack - Golden Slug Gunner_84: 132962478
+      Mobile - Metal Slug Attack - Golden Slug Gunner_36: 37255972
+      Mobile - Metal Slug Attack - Golden Slug Gunner_187: 1164703546
+      Mobile - Metal Slug Attack - Golden Slug Gunner_293: -1601315358
+      Mobile - Metal Slug Attack - Golden Slug Gunner_28: 1140698293
+      Mobile - Metal Slug Attack - Golden Slug Gunner_188: 1051819021
+      Mobile - Metal Slug Attack - Golden Slug Gunner_305: 1778194291
+      Mobile - Metal Slug Attack - Golden Slug Gunner_196: -2138352525
+      Mobile - Metal Slug Attack - Golden Slug Gunner_203: -53194995
+      Mobile - Metal Slug Attack - Golden Slug Gunner_124: 574034697
+      Mobile - Metal Slug Attack - Golden Slug Gunner_170: -1491366778
+      Mobile - Metal Slug Attack - Golden Slug Gunner_46: -1682845795
+      Mobile - Metal Slug Attack - Golden Slug Gunner_191: 794138348
+      Mobile - Metal Slug Attack - Golden Slug Gunner_221: -590270021
+      Mobile - Metal Slug Attack - Golden Slug Gunner_165: -1633759738
+      Mobile - Metal Slug Attack - Golden Slug Gunner_282: -1253248657
+      Mobile - Metal Slug Attack - Golden Slug Gunner_78: -1459993773
+      Mobile - Metal Slug Attack - Golden Slug Gunner_4: 347514723
+      Mobile - Metal Slug Attack - Golden Slug Gunner_66: -59891134
+      Mobile - Metal Slug Attack - Golden Slug Gunner_49: -264688862
+      Mobile - Metal Slug Attack - Golden Slug Gunner_150: 1435604479
+      Mobile - Metal Slug Attack - Golden Slug Gunner_122: -2090152913
+      Mobile - Metal Slug Attack - Golden Slug Gunner_140: 67883606
+      Mobile - Metal Slug Attack - Golden Slug Gunner_55: -249481916
+      Mobile - Metal Slug Attack - Golden Slug Gunner_120: -1864854149
+      Mobile - Metal Slug Attack - Golden Slug Gunner_182: -901419739
+      Mobile - Metal Slug Attack - Golden Slug Gunner_138: -1272714539
+      Mobile - Metal Slug Attack - Golden Slug Gunner_291: -1763210033
+      Mobile - Metal Slug Attack - Golden Slug Gunner_231: -695152605
+      Mobile - Metal Slug Attack - Golden Slug Gunner_215: -2141475505
+      Mobile - Metal Slug Attack - Golden Slug Gunner_11: 860406978
+      Mobile - Metal Slug Attack - Golden Slug Gunner_53: -711456457
+      Mobile - Metal Slug Attack - Golden Slug Gunner_136: -1357581703
+      Mobile - Metal Slug Attack - Golden Slug Gunner_145: 350008280
+      Mobile - Metal Slug Attack - Golden Slug Gunner_7: -172338691
+      Mobile - Metal Slug Attack - Golden Slug Gunner_189: -1588967459
+      Mobile - Metal Slug Attack - Golden Slug Gunner_194: 102153027
+      Mobile - Metal Slug Attack - Golden Slug Gunner_58: -1802590538
+      Mobile - Metal Slug Attack - Golden Slug Gunner_62: 1842017047
+      Mobile - Metal Slug Attack - Golden Slug Gunner_277: 879392372
+      Mobile - Metal Slug Attack - Golden Slug Gunner_97: 155454373
+      Mobile - Metal Slug Attack - Golden Slug Gunner_101: -821311049
+      Mobile - Metal Slug Attack - Golden Slug Gunner_113: 1038822071
+      Mobile - Metal Slug Attack - Golden Slug Gunner_128: -539943395
+      Mobile - Metal Slug Attack - Golden Slug Gunner_153: -334443632
+      Mobile - Metal Slug Attack - Golden Slug Gunner_240: 822736920
+      Mobile - Metal Slug Attack - Golden Slug Gunner_262: -1589243089
+      Mobile - Metal Slug Attack - Golden Slug Gunner_267: 1812698800
+      Mobile - Metal Slug Attack - Golden Slug Gunner_264: -2097629989
+      Mobile - Metal Slug Attack - Golden Slug Gunner_85: -1481533567
+      Mobile - Metal Slug Attack - Golden Slug Gunner_100: 869462807
+      Mobile - Metal Slug Attack - Golden Slug Gunner_183: 330695606
+      Mobile - Metal Slug Attack - Golden Slug Gunner_300: 1340462792
+      Mobile - Metal Slug Attack - Golden Slug Gunner_107: -22507731
+      Mobile - Metal Slug Attack - Golden Slug Gunner_99: -1970723844
+      Mobile - Metal Slug Attack - Golden Slug Gunner_228: 613800835
+      Mobile - Metal Slug Attack - Golden Slug Gunner_158: 719471467
+      Mobile - Metal Slug Attack - Golden Slug Gunner_209: 1842157478
+      Mobile - Metal Slug Attack - Golden Slug Gunner_198: -1904681170
+      Mobile - Metal Slug Attack - Golden Slug Gunner_253: -1324197667
+      Mobile - Metal Slug Attack - Golden Slug Gunner_8: -624497476
+      Mobile - Metal Slug Attack - Golden Slug Gunner_227: -828722945
+      Mobile - Metal Slug Attack - Golden Slug Gunner_171: 356622264
+      Mobile - Metal Slug Attack - Golden Slug Gunner_64: 1804265842
+      Mobile - Metal Slug Attack - Golden Slug Gunner_35: -1874141278
+      Mobile - Metal Slug Attack - Golden Slug Gunner_219: -1233570239
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 1c076d8a6fba4924e958e469ad471457
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 672
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c55ff0e8c6053439757a1e1a4c01ac
+      internalID: 1551729477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 672
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ebf770c5e0d74ea6344a428a287a2
+      internalID: -277625579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 576
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46f47699403074a985110ed90e86ef
+      internalID: 423399439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 576
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf58e0febb0db4e8585fc8965e8dc0
+      internalID: -629819140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 576
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f325f14e03db684a84a0b8e4fd41e61
+      internalID: 174548998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 576
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a2dcaf7ce3f34694f954b088e8b44
+      internalID: 1938969989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 480
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f967fda677c045990852953aa3467
+      internalID: 1430517173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 480
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e86b6ef5f719a04ba2c2ea1540495f1
+      internalID: 568411388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 480
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8835bfce08a44b89d8771a2ae5f16
+      internalID: 1163840610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 480
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bacf331fc5b2e74dace8b4a11a69309
+      internalID: 309758667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 480
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b10dd9d66f82489f64e775db68350
+      internalID: -1847001304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 480
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b7fac63001c74bbf18392323c5a92
+      internalID: 2013921673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 480
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef71b12bd59474b96f8dc2457ef9e7
+      internalID: -844295211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 480
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f6f3bf32575b4d8647a971eedb664
+      internalID: 967788767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 384
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5c3c74d8855e4c91213523a585bea
+      internalID: 1482276970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 384
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e047ce911bc8c9439cc20a6423aacb7
+      internalID: 918589800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 384
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb03ce2328c3541b68d7b8fd8d8bfe
+      internalID: 650736187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 384
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436fe4dfca4a4e44aceeb96cdb54fdb
+      internalID: 802939964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 384
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a902f9a231c2394584dffee84cbfc40
+      internalID: 980669661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 384
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd817283ff96dd94aa93f44e02e2953f
+      internalID: -1580062786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 384
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e2d3bae8dc3f34ea13496dca612258
+      internalID: -1172623789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 384
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14aeec9fa74fb5479f24845b5f5e474
+      internalID: -428575968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 384
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad613f43662b94c99cf343b92a5389
+      internalID: 1785466883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 384
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a9d718fe108ba4d88ac2e279b8df16
+      internalID: -333493284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 288
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd390af7a170e04087cf48e4661c295
+      internalID: -1473624438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 288
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e999509d051e7745a8b1f278f899e71
+      internalID: 1376752940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 288
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e876696b605c4643b8387ea2f104a6c
+      internalID: -689971403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 288
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ced9de666a6841948fef98b17c633
+      internalID: -577627566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 288
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8869676207ca1c4ba83f006b7a6632d
+      internalID: -789819336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 288
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56090c05964dd478906a5ef5a2a907
+      internalID: -1621106228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 288
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1831e26d426aa64418dcb5cd79606da0
+      internalID: 1957646995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 192
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c711edb46e2b48aa9c7d5d64480c3
+      internalID: -765307172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be77a5d4b20b9f4c96f6d78aeea80cf
+      internalID: 1180859519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 192
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695bd96eefa9c1542a38d5906a457e8a
+      internalID: -1918047492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 192
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19b517dcf570d4ea2d2022d6435fc1
+      internalID: 1006523054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 192
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25eb5a0161abd4bbc3bc327bfaf8b9
+      internalID: 616092928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2043e942368b2c1418b7147aa3e2f50d
+      internalID: 257345262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059404a0e4696fe4d8ab9752a4f4ccb2
+      internalID: -1483997947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_52
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc1f3b2b0f0104da38295dc0068793
+      internalID: -2123671880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_53
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57be5702ecc14f48bafa239a707305c
+      internalID: 92766209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Incursion Bot Sprite Sheet (1)_54
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74638c6e4509c4c9074f35ed582d15
+      internalID: -1895012794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Military Incursion Bot Sprite Sheet (1)_29: -1621106228
+      Military Incursion Bot Sprite Sheet (1)_38: 383269125
+      Military Incursion Bot Sprite Sheet (1)_32: 1180859519
+      Military Incursion Bot Sprite Sheet (1)_19: -1580062786
+      Military Incursion Bot Sprite Sheet (1)_45: 370738003
+      Military Incursion Bot Sprite Sheet (1)_26: -689971403
+      Military Incursion Bot Sprite Sheet (1)_47: 1728847455
+      Military Incursion Bot Sprite Sheet (1)_23: -333493284
+      Military Incursion Bot Sprite Sheet (1)_8: 1163840610
+      Military Incursion Bot Sprite Sheet (1)_33: -1918047492
+      Military Incursion Bot Sprite Sheet (1)_1: -277625579
+      Military Incursion Bot Sprite Sheet (1)_9: 309758667
+      Military Incursion Bot Sprite Sheet (1)_14: 1482276970
+      Military Incursion Bot Sprite Sheet (1)_2: 423399439
+      Military Incursion Bot Sprite Sheet (1)_30: 1957646995
+      Military Incursion Bot Sprite Sheet (1)_0: 1551729477
+      Military Incursion Bot Sprite Sheet (1)_37: 147181324
+      Military Incursion Bot Sprite Sheet (1)_15: 918589800
+      Military Incursion Bot Sprite Sheet (1)_10: -1847001304
+      Military Incursion Bot Sprite Sheet (1)_52: -2123671880
+      Military Incursion Bot Sprite Sheet (1)_25: 1376752940
+      Military Incursion Bot Sprite Sheet (1)_54: -1895012794
+      Military Incursion Bot Sprite Sheet (1)_53: 92766209
+      Military Incursion Bot Sprite Sheet (1)_4: 174548998
+      Military Incursion Bot Sprite Sheet (1)_3: -629819140
+      Military Incursion Bot Sprite Sheet (1)_28: -789819336
+      Military Incursion Bot Sprite Sheet (1)_11: 2013921673
+      Military Incursion Bot Sprite Sheet (1)_24: -1473624438
+      Military Incursion Bot Sprite Sheet (1)_27: -577627566
+      Military Incursion Bot Sprite Sheet (1)_18: 980669661
+      Military Incursion Bot Sprite Sheet (1)_42: 362297533
+      Military Incursion Bot Sprite Sheet (1)_35: 616092928
+      Military Incursion Bot Sprite Sheet (1)_34: 1006523054
+      Military Incursion Bot Sprite Sheet (1)_43: -969168292
+      Military Incursion Bot Sprite Sheet (1)_5: 1938969989
+      Military Incursion Bot Sprite Sheet (1)_40: 1609446558
+      Military Incursion Bot Sprite Sheet (1)_46: 1853051918
+      Military Incursion Bot Sprite Sheet (1)_36: -1254101039
+      Military Incursion Bot Sprite Sheet (1)_6: 1430517173
+      Military Incursion Bot Sprite Sheet (1)_21: -428575968
+      Military Incursion Bot Sprite Sheet (1)_50: 257345262
+      Military Incursion Bot Sprite Sheet (1)_17: 802939964
+      Military Incursion Bot Sprite Sheet (1)_41: -84319979
+      Military Incursion Bot Sprite Sheet (1)_39: 424864716
+      Military Incursion Bot Sprite Sheet (1)_49: -1211784157
+      Military Incursion Bot Sprite Sheet (1)_44: -1578393192
+      Military Incursion Bot Sprite Sheet (1)_7: 568411388
+      Military Incursion Bot Sprite Sheet (1)_12: -844295211
+      Military Incursion Bot Sprite Sheet (1)_13: 967788767
+      Military Incursion Bot Sprite Sheet (1)_51: -1483997947
+      Military Incursion Bot Sprite Sheet (1)_31: -765307172
+      Military Incursion Bot Sprite Sheet (1)_20: -1172623789
+      Military Incursion Bot Sprite Sheet (1)_22: 1785466883
+      Military Incursion Bot Sprite Sheet (1)_48: 827337226
+      Military Incursion Bot Sprite Sheet (1)_16: 650736187
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
