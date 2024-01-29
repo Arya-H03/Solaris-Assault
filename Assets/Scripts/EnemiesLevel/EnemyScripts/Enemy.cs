@@ -135,12 +135,12 @@ public class Enemy : MonoBehaviour
                 Instantiate(shieldBoostItem,new Vector3(transform.position.x + randomXOffset, transform.position.y + randomYOffset, transform.position.z),  Quaternion.identity);
             }
 
-            if (randomNumber < 10 && randomNumber < 6)
+            if (randomNumber < 10 && randomNumber >= 6)
             {
                 Instantiate(missileBoostItem, new Vector3(transform.position.x + randomXOffset, transform.position.y + randomYOffset, transform.position.z), Quaternion.identity);
             }
 
-            if (randomNumber < 15 && randomNumber < 10)
+            if (randomNumber < 15 && randomNumber >= 10)
             {
                 Instantiate(gunUpgradeItem, new Vector3(transform.position.x + randomXOffset, transform.position.y + randomYOffset, transform.position.z), Quaternion.identity);
             }
